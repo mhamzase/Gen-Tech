@@ -1,2 +1,3 @@
 # Gen-Tech
-## A mordern blog web app
+                                           TO SEE MAGIC RUN BELOW COMMAND
+                                           python manage.py runserver
