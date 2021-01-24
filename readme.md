@@ -1,1 +1,2 @@
-#this is nice blog
+# Gen-Tech
+## A mordern blog web app
